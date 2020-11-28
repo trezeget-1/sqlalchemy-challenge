@@ -1,5 +1,5 @@
-/Images/
-
+/root/Instructions/Images/.gitignore
+backup.html
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

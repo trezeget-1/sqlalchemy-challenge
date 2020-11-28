@@ -1,5 +1,6 @@
-/root/Instructions/Images/.gitignore
-backup.html
+/root/Instructions/Images/
+# .gitignore
+/root/Instructions/backup.html
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
